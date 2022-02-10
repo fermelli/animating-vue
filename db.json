@@ -1,0 +1,20 @@
+{
+  "tv-series": [
+    {
+      "id": "9a48d746c5491",
+      "name": "All of Us Are Dead",
+      "year": "2022",
+      "season": "1",
+      "genre": "Drama",
+      "description": "After a zombie virus spreads through their school, a group of trapped teens must find a way out or end up infected."
+    },
+    {
+      "name": "Squid Game",
+      "year": 2021,
+      "season": 1,
+      "genre": "genre",
+      "description": "Hundreds of cash-strapped players accept a rare invitation to compete in children's games. Inside awaits an irresistible prize... with a deadly risk.",
+      "id": "CZCwWtC"
+    }
+  ]
+}

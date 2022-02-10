@@ -18,5 +18,7 @@ app.use(router);
 
 app.component('modal', Modal);
 app.component('the-navbar', TheNavbar);
+app.component('form-serie', FormSerie);
+app.component('card-serie', CardSerie);
 
 app.mount('#app');
