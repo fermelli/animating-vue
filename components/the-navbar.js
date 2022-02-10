@@ -9,6 +9,9 @@ const TheNavbar = {
                     <li>
                         <router-link class="text-white" :to="{ name: 'page-transitions' }">Page Transitions</router-link>
                     </li>
+                    <li>
+                        <router-link class="text-white" :to="{ name: 'group-transitions' }">Group Transitions</router-link>
+                    </li>
                 </ul>
             </nav>
         </header>

@@ -5,6 +5,11 @@ const routes = [
 		name: 'page-transitions',
 		component: PageTransitions,
 	},
+	{
+		path: '/group-transitions',
+		name: 'group-transitions',
+		component: GroupTransitions,
+	},
 ];
 
 const router = VueRouter.createRouter({
