@@ -1,52 +1,44 @@
 {
-	"tv-series": [
-		{
-			"name": "All of Us Are Dead",
-			"year": "2022",
-			"season": "1",
-			"genre": "Drama",
-			"description": "After a zombie virus spreads through their school, a group of trapped teens must find a way out or end up infected.",
-			"id": "9a48d746c5491"
-		},
-		{
-			"name": "Squid Game",
-			"year": 2021,
-			"season": 1,
-			"genre": "Drama",
-			"description": "Hundreds of cash-strapped players accept a rare invitation to compete in children's games. Inside awaits an irresistible prize... with a deadly risk.",
-			"id": "CZCwWtC"
-		},
-		{
-			"name": "Suits",
-			"year": 2011,
-			"season": 9,
-			"genre": "Drama",
-			"description": "When he impresses a big lawyer with his razor-sharp mind, a college dropout scores a coveted associate job, even though he has no legal credentials.",
-			"id": "e-ScfAv"
-		},
-		{
-			"name": "Cobra Kai",
-			"description": "Decades after the tournament that changed their lives, the rivalry between Johnny and Daniel reignites in this sequel to the \"Karate Kid\" films.",
-			"year": 2018,
-			"season": 4,
-			"genre": "Drama",
-			"id": "iiJl2Jb"
-		},
-		{
-			"name": "Rick and Morty",
-			"year": 2013,
-			"season": 4,
-			"genre": "Fantasy",
-			"description": "Brilliant but boozy scientist Rick hijacks his fretful teenage grandson, Morty, for wild escapades in other worlds and alternate dimensions.",
-			"id": "6kDNsHr"
-		},
-		{
-			"name": "Cobra Kai",
-			"year": 2018,
-			"season": 4,
-			"genre": "Drama",
-			"description": "Decades after the tournament that changed their lives, the rivalry between Johnny and Daniel reignites in this sequel to the \"Karate Kid\" films.",
-			"id": "yD29aJP"
-		}
-	]
+  "tv-series": [
+    {
+      "name": "All of Us Are Dead",
+      "year": "2022",
+      "season": "1",
+      "genre": "Drama",
+      "description": "After a zombie virus spreads through their school, a group of trapped teens must find a way out or end up infected.",
+      "id": "9a48d746c5491"
+    },
+    {
+      "name": "Rick and Morty",
+      "year": 2013,
+      "season": 4,
+      "genre": "Fantasy",
+      "description": "Brilliant but boozy scientist Rick hijacks his fretful teenage grandson, Morty, for wild escapades in other worlds and alternate dimensions.",
+      "id": "6kDNsHr"
+    },
+    {
+      "name": "Cobra Kai",
+      "year": 2018,
+      "season": 4,
+      "genre": "Drama",
+      "description": "Decades after the tournament that changed their lives, the rivalry between Johnny and Daniel reignites in this sequel to the \"Karate Kid\" films.",
+      "id": "tR44XpR"
+    },
+    {
+      "name": "Squid Game",
+      "year": 2021,
+      "season": 1,
+      "genre": "Drama",
+      "description": "Hundreds of cash-strapped players accept a rare invitation to compete in children's games. Inside awaits an irresistible prize... with a deadly risk.",
+      "id": "w-bQaTL"
+    },
+    {
+      "name": "Suits",
+      "year": 2011,
+      "season": 9,
+      "genre": "Drama",
+      "description": "When he impresses a big lawyer with his razor-sharp mind, a college dropout scores a coveted associate job, even though he has no legal credentials.",
+      "id": "NlqsX90"
+    }
+  ]
 }
