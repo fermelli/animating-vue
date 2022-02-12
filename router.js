@@ -10,6 +10,11 @@ const routes = [
 		name: 'group-transitions',
 		component: GroupTransitions,
 	},
+	{
+		path: '/javascript-hooks',
+		name: 'javascript-hooks',
+		component: JavascriptHooks,
+	},
 ];
 
 const router = VueRouter.createRouter({
